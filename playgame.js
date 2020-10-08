@@ -225,7 +225,7 @@ scoreText.innerText = score;
 
 }
 ;
-Game js
+
 
 
 
