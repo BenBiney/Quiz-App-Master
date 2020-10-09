@@ -1,14 +1,13 @@
 [
  {
 "question": " Who is the founder of Christainity?",
-"choice1": "<Jesus Christ>",
-"choice2": "<Paul>",
-"choice3": "<Peter>",
-"choice4": "<Adam>",
+"choice1": "Jesus Christ",
+"choice2": "Paul",
+"choice3": "Peter",
+"choice4": "Adam",
 "answer": 1
 },
 {
-
 "question": "When did Ghana gain indepedence?",
 "choice1": "1st July,1960",
 "choice2": "1st December,1909",
@@ -17,17 +16,11 @@
 "answer": 4
 },
 {
-"question": " ?",
-"choice1": "msgBox('Hello World');",
-"choice2": "alertBox('Hello World');",
-"choice3": "msg('Hello World');",
-"choice4": "alert('Hello World');",
-
-"answer": 4
-
+"question": "Who is the founder of Ghana?",
+"choice1": " Paul Mugabe",
+"choice2": "Kwame Nkrumah",
+"choice3": "Kwesi Nkrumah",
+"choice4": "Kwesi Mensa",
+"answer": 2
 }
-
-]
-
-   
 ]
