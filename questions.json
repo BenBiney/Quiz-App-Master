@@ -1,19 +1,10 @@
 [
- 
-[
-
-{
-
-"question": "Inside which HTML element do we put the JavaScript??",
-
-"choice1": "<script>",
-
-"choice2": "<javascript>",
-
-"choice3": "<js>",
-
-"choice4": "<scripting>",
-
+ {
+"question": " Who is the founder of Christainity??",
+"choice1": "<Jesus Christ>",
+"choice2": "<Paul>",
+"choice3": "<Peter>",
+"choice4": "<Adam>",
 "answer": 1
 
 },
